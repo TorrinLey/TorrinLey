@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Torrin Ley
-- 👀 I’m interested in Programming and Computer Science
-- 🌱 I’m currently learning Linux Programming and Intro to Programming In C
+- 👀 I’m interested in Programming in Computer Networks and Software Engineering
+- 🌱 I’m currently learning Computer Networks, Software Engineering, and Web Development
 - 💞️ I’m looking to collaborate on Group Projects
 - 📫 How to reach me: @torrin.ley@student.judsonu.edu 
 
