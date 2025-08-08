@@ -1,5 +1,5 @@
-- 👋 Hi! I'm Torrin Ley, a computer science undergraduate and athelete at Judson University. I will be graduating in the Spring of 2025.
--  I’m interested in Programming in Web Development & Software Engineering, hopefully looking to apply my knowledge into a real-world setting.
+- 👋 Hi! I'm Torrin Ley, a computer science graduate and Former athelete From Judson University. Recently Graduated in May 2025, looking for a role in Full-Stack and Frontend Developement.
+
 - My Experience includes:
 - Languages:
     - Java
@@ -23,7 +23,7 @@
     - APIs
     - React.js & Node.js
     - Bootstrap
-    - npm
+    - next.js
 - 💞️ I'm currently looking for projects to build and hopefully an internship in the fall of 2024!
 - 📫 How to reach me: @leytorrin@gmail.com
 
