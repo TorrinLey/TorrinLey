@@ -24,7 +24,7 @@
     - React.js & Node.js
     - Bootstrap
     - next.js
-- 💞️ I'm currently looking for projects to build and hopefully an internship in the fall of 2024!
+
 - 📫 How to reach me: @leytorrin@gmail.com
 
 <!---
